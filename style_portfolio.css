@@ -1,0 +1,212 @@
+*{
+    margin:0;
+}
+#img1{
+    width:100%;
+    height:700px;
+
+}
+.main{
+    display: block;
+}
+#quote
+{   
+    position:absolute;
+    top: 17px;
+    left: 50px;
+    font-size:1000%;
+    color: white;
+    align-items: center;
+    font-family:cursive;
+}
+.firstimage{
+    height: 200px;
+}
+.main{
+    background-color:rgb(238, 237, 220)
+}
+#heading{
+    text-align: center;
+    font-family:'Roboto Slab', serif; 
+    color:rgb(24, 24, 153);
+    font-size: 45px;
+    padding-top: 5%;
+}
+#subheading{
+    text-align: center;
+    font-style:italic;
+    padding-top:1%;
+}
+#image{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:50%;
+    width: 320px;
+    height: 440px;
+    padding-top: 2%;
+}
+#about{
+    padding:20px;
+    text-align: center;
+    font-style: italic;
+    font-size: 400%;  
+}
+#para{
+    text-align:center;
+    font-size:30px;
+    font-family: 'Cormorant Garamond', serif;
+}
+#line{
+    margin-left:150px;
+    margin-right: 150px;
+}
+.interests{
+    padding-top:40px;
+}
+#inter{
+    text-align:center;
+    font-size: 400%;
+    font-style: italic;
+    padding-bottom: 40px;
+}
+#laptop{
+    width:200px;
+    height:200px;
+    vertical-align: top;
+}
+#Ps{
+    padding-left:400px;
+    padding-bottom: 20px;
+    font-size: larger;
+    
+}
+#psdescri{
+    padding-left: 400px;
+    font-size:25px;
+    font-family: 'Cormorant Garamond', serif;
+    
+}
+#history{
+    padding-bottom: 20px;
+    padding-left: 400px;
+    font-size: larger;
+}
+#globe{
+    float:left;
+    padding-left:60px;
+}
+#worldaffairs{
+    padding-left:400px;
+    font-size: larger;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+}
+.hob{
+    padding-top:100px;
+}
+#line2{
+    margin-left:150px;
+    margin-right: 150px;
+}
+#hobbies{
+    text-align: center;
+    padding: 20px;
+    font-size: 400%;
+    font-style: italic;
+    padding-bottom: 40px;
+}
+#read{
+    padding-left:400px;
+    padding-bottom: 20px;
+    font-size: larger;
+   
+}
+#describe{
+    padding-left: 400px;
+    font-size: large;
+    text-align: left;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+}
+#hobbyread{
+    height:200px;
+    width: 200px;
+    float:right;
+    padding-bottom: 200px;
+    padding-right: 205px;
+}
+#badminton{
+    width: 200px;;
+    height: 200px;
+    float:left;
+    padding-top: 100px;
+    margin-left: 30px;
+    padding-left: 100px;
+}
+#playing{
+    padding-left:400px;
+    padding-top:160px;
+    padding-bottom: 20px;
+    font-size: larger;
+}
+#badmintondescri{
+    padding-left: 400px;
+    font-size: 25px;
+    text-align: left;
+    font-family: 'Cormorant Garamond', serif;
+}
+.lastcontainer{
+    padding-top:60px;
+}
+.Contact{
+    padding-bottom: 20px;
+}
+#btn{
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   height: 50px;
+   width:11%;
+   border-radius: 60px;
+   background-color: rgb(226, 225, 131);
+   cursor: pointer;
+   border:2px rgb(226, 225, 131);;
+   font-family: 'Cormorant Garamond', serif;
+   font-size: larger;
+   
+}
+#btn:active{
+    box-shadow: 0 3px 0 rgb(201, 221, 109);
+    transform: translateY(5px);
+}
+#btn:hover{
+   
+   background-color:rgb(207, 231, 67);
+   color:black;
+}
+
+#line3{
+    margin-left:150px;
+    margin-right:150px;
+}
+.connectclass{
+    padding-bottom: 20px;
+}
+#Connect{
+    text-align: center;
+    padding-top: 20px;
+    font-style: italic;
+    font-size: 400%;
+    padding-bottom: 20px;
+}
+#connection{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Cormorant Garamond', serif;
+}
+@media screen and (min-width:780px){}
+
+
+
+    
