@@ -206,7 +206,7 @@
     font-family: 'Cormorant Garamond', serif;
 }
 @media screen and (min-width:780px){
-    display:flex;
+   /* display:flex;*
 }
 
 
